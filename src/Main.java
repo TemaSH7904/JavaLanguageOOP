@@ -5,7 +5,7 @@ public class Main {
         dog.name = "Spike";
         dog.bread = "Shepherd";
         dog.weight = 2.0;
-        dog.speed = 5;
+        dog.speed = 10;
 
         System.out.println(dog.getName());
         dog.run();
