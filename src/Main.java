@@ -1,14 +1,20 @@
 public class Main {
     public static void main(String[] args) {
 
-        Dog dog = new Dog();
-        dog.name = "Spike";
-        dog.bread = "Shepherd";
-        dog.weight = 2.0;
-        dog.speed = 10;
+        Rectangle areaRectangle = new Rectangle();
 
-        System.out.println(dog.getName());
-        dog.run();
+        areaRectangle.setDimens(5, 6);
+
+        System.out.println(areaRectangle.area());
+
+//        Dog dog = new Dog();
+//        dog.name = "Spike";
+//        dog.bread = "Shepherd";
+//        dog.weight = 2.0;
+//        dog.speed = 10;
+//
+//        System.out.println(dog.getName());
+//        dog.run();
         
 
 
