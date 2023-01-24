@@ -1,13 +1,16 @@
 public class Main {
     public static void main(String[] args) {
 
-        Rectangle areaRectangle = new Rectangle();
+    Employee employee = new Employee("Nick", "Injener", 45_000.0);
+    employee.showInfo();
 
-        areaRectangle.setDimens(5, 6);
+//3       Rectangle areaRectangle = new Rectangle();
+//
+//        areaRectangle.setDimens(5, 6);
+//
+//        System.out.println(areaRectangle.area());
 
-        System.out.println(areaRectangle.area());
-
-//        Dog dog = new Dog();
+//2        Dog dog = new Dog();
 //        dog.name = "Spike";
 //        dog.bread = "Shepherd";
 //        dog.weight = 2.0;
@@ -18,7 +21,7 @@ public class Main {
         
 
 
-//        System.out.println("Средний возраст трех людей: " + result);
+//1       System.out.println("Средний возраст трех людей: " + result);
 //        Man human1 = new Man();
 //        Man human2 = new Man();
 //        Man human3 = new Man();

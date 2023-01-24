@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d0ffd23-2592-45d8-a0fd-453c43f7f57a" name="Changes" comment="version Start OOP - Method Class 1">
-      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+    <list default="true" id="8d0ffd23-2592-45d8-a0fd-453c43f7f57a" name="Changes" comment="version Start OOP - this.">
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -75,7 +75,7 @@
       <workItem from="1674594357826" duration="400000" />
       <workItem from="1674595156756" duration="1480000" />
       <workItem from="1674596678503" duration="201000" />
-      <workItem from="1674596919885" duration="2305000" />
+      <workItem from="1674596919885" duration="5461000" />
     </task>
     <task id="LOCAL-00001" summary="version Start OOP">
       <created>1674545168710</created>
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674596629002</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="version Start OOP - this.">
+      <created>1674599828485</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674599828485</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +133,8 @@
     <MESSAGE value="version Start OOP" />
     <MESSAGE value="version Start OOP - Method Class" />
     <MESSAGE value="version Start OOP - Method Class 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="version Start OOP - Method Class 1" />
+    <MESSAGE value="version Start OOP - this." />
+    <option name="LAST_COMMIT_MESSAGE" value="version Start OOP - this." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
