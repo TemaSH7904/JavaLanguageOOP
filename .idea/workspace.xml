@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d0ffd23-2592-45d8-a0fd-453c43f7f57a" name="Changes" comment="version Start OOP - this.">
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+    <list default="true" id="8d0ffd23-2592-45d8-a0fd-453c43f7f57a" name="Changes" comment="version Start OOP - Конструктор, Передача параметров, Методы">
+      <change afterPath="$PROJECT_DIR$/src/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Squer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -35,21 +37,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "inlay.hints",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Foo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Foo" />
+      <module name="OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="OOP" />
@@ -60,6 +69,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Foo" />
       </list>
     </recent_temporary>
   </component>
@@ -75,7 +85,15 @@
       <workItem from="1674594357826" duration="400000" />
       <workItem from="1674595156756" duration="1480000" />
       <workItem from="1674596678503" duration="201000" />
-      <workItem from="1674596919885" duration="5461000" />
+      <workItem from="1674596919885" duration="5703000" />
+      <workItem from="1674736758630" duration="961000" />
+      <workItem from="1674994891225" duration="34000" />
+      <workItem from="1674994938106" duration="9000" />
+      <workItem from="1675027501807" duration="2566000" />
+      <workItem from="1675118204858" duration="442000" />
+      <workItem from="1675348085080" duration="110000" />
+      <workItem from="1675368349663" duration="1191000" />
+      <workItem from="1675467933581" duration="1789000" />
     </task>
     <task id="LOCAL-00001" summary="version Start OOP">
       <created>1674545168710</created>
@@ -112,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674599828485</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="version Start OOP - Конструктор, Передача параметров, Методы">
+      <created>1674603265973</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674603265973</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +159,8 @@
     <MESSAGE value="version Start OOP - Method Class" />
     <MESSAGE value="version Start OOP - Method Class 1" />
     <MESSAGE value="version Start OOP - this." />
-    <option name="LAST_COMMIT_MESSAGE" value="version Start OOP - this." />
+    <MESSAGE value="version Start OOP - Конструктор, Передача параметров, Методы" />
+    <option name="LAST_COMMIT_MESSAGE" value="version Start OOP - Конструктор, Передача параметров, Методы" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

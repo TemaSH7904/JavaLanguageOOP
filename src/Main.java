@@ -1,8 +1,22 @@
 public class Main {
     public static void main(String[] args) {
+//
+//    Squer scr0 = new Squer();
+//    scr0.a = 2;
+//    scr0.b = 4;
+//    double S0 = scr0.scrS();
+//    System.out.println(S0);
+//
+//    Squer scr1 = new Squer();
+//    scr1.a = 3;
+//    scr1.b = 4;
+//    double S1 = scr1.scrS();
+//    System.out.println(S1);
 
-    Employee employee = new Employee("Nick", "Injener", 45_000.0);
-    employee.showInfo();
+
+//    Monster.voice();
+//    Employee employee = new Employee("Nick", "Injener", 45_000.0);
+//    employee.showInfo();
 
 //3       Rectangle areaRectangle = new Rectangle();
 //
@@ -10,14 +24,14 @@ public class Main {
 //
 //        System.out.println(areaRectangle.area());
 
-//2        Dog dog = new Dog();
-//        dog.name = "Spike";
-//        dog.bread = "Shepherd";
-//        dog.weight = 2.0;
-//        dog.speed = 10;
-//
-//        System.out.println(dog.getName());
-//        dog.run();
+        Dog dog = new Dog();
+        dog.name = "Spike";
+        dog.bread = "Shepherd";
+        dog.weight = 2.0;
+        dog.speed = 10;
+
+        System.out.println(dog.getName());
+        dog.run();
         
 
 
